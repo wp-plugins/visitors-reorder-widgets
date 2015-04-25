@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Visitors Reorder Widgets
  * Description: Enables visitors to reorder widgets vertically on the front end.
- * Version: 1.0
+ * Version: 1.1
  * Author: Izack Lesher
  * Author URI: http://itziklesher.triplebit.com
  * License: GPLv2 or later
