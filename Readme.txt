@@ -1,11 +1,11 @@
 === Visitors Reorder Pages ===
 Contributors: Izack Lesher
-Tags: reorder widgets 
+Tags: visitor, reorder, widgets 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Requires at least: ver. 3.5
-Tested up to: ver 4.2
-
+Requires at least: 3.5
+Tested up to: 4.2
+Stable tag: 1.0
 
 Enables visitors on the front page to reorder widgets on a vertical widgetized area by a simple drag and drop. 
 After activation the plugin it creates a widget itself, indicating the user about this option.
